@@ -1,0 +1,7 @@
+org\Automation\Page\LoginPage.class
+org\Automation\Genric\DriverUtils.class
+org\Automation\practice\FrameWork.class
+org\Automation\Page\AdminPage.class
+org\Automation\Test\BaseTest.class
+org\Automation\Test\LoginTest.class
+org\Automation\Page\BasePage.class
